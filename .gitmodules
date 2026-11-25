@@ -5,3 +5,7 @@
 [submodule "G0DM0D3"]
 	path = G0DM0D3
 	url = https://github.com/elder-plinius/G0DM0D3.git
+
+[submodule "ECC"]
+	path = ECC
+	url = https://github.com/affaan-m/ECC.git
